@@ -1,1 +1,1 @@
-# spartaschool_moviescript
+# スパルタスクールの教材スクリプト
